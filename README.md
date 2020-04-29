@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/elisamunoz/eli-ecommerce.svg?branch=master)](https://travis-ci.org/elisamunoz/eli-ecommerce)
